@@ -1,6 +1,6 @@
 <div align="center">
 
-**Will add to main GH when im not half asleep nd awake enough to not edit the wrong repo again (ᵕ—﹏—)**
+**Will add stuff to main GH when im not half asleep nd awake enough to not edit the wrong repo again (ᵕ—﹏—)**
   
 <div align="center"> pfp : testing testing 
 <img width="1000" height="393" alt="Untitled96_Restored_20261025125140" src="https://github.com/user-attachments/assets/58053b81-be66-48a1-8a65-74d8bf9f2652" />
@@ -32,14 +32,14 @@ $\color{#171F48}{\texttt{ :D}}$
 </p>
 <br>
 <br>
-<img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=Targets&extraCount=-610&labelColor=3A375C&color=D7BD00" alt="Visitor count"> 
+<img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=Targets&extraCount=-615&labelColor=3A375C&color=D7BD00" alt="Visitor count"> 
   <img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=PeopleIMugged&extraCount=1137&labelColor=171F48&color=419F52" alt="Visitor count"> 
   <img src="https://img.shields.io/github/followers/Ilikegeodes?style=plastic&label=Moots!&labelColor=3A375C&color=ba84ec" alt="Profile followers">
 <br>
 <br>
 <img alt="Untitled96_Restored_20261025124347" src="https://github.com/user-attachments/assets/25c56c3f-85e1-441f-93ec-28a05125f489" />
 
-cutest picture aww boop ty again for making this for me
+cutest picture aww boop thanks again for making this for me
 <br>
 <br>
 <table>
@@ -121,12 +121,17 @@ cutest picture aww boop ty again for making this for me
  <table>
    <tr>
      <td>
-       <banner>
-     </td>
+  <p align="center">
+    <sub> $\color{#419F52}{\texttt{Made}}$ </sub> <sub> $\color{#ba84ec}{\texttt{by}}$ </sub>
+  </p>
+  <br>
+  
+  [<img width="200" height="100" alt="Untitled79_20261005141215" src="https://github.com/user-attachments/assets/dbd17147-4ed8-48a0-8b50-2d0754cc90d8" />](https://github.com/sketchyremorse)
+  <br>     </td>
    </tr>
   </table>
 <br>
-<br>
+idk if this was supposed to be added here i noticed there was a box that didnt contain anything but you had this on the other one you made
 <br>
 <img alt="Untitled96_20261025103954" src="https://github.com/user-attachments/assets/2465d401-040c-4484-a52d-056431e66965" />
 </div>
