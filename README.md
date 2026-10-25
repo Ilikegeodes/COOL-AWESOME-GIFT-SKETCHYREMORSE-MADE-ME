@@ -13,6 +13,7 @@ $\color{#171F48}{\texttt{The}}$ $\color{#419F52}{\texttt{Pet Stealer}}$ $\color{
 <a href="https://github.com/title-town">@titletown</a>
 $\color{#3A375C}{\texttt{and the}}$ $\color{#419F52}{\texttt{Damian Wayne}}$ $\color{#3A375C}{\texttt{of}}$ 
 <a href="https://github.com/Ponytowns-Rewards">@Ponytowns-Awards</a>
+$\color{#171F48}{\texttt{ (⁠◡⁠ ⁠ω⁠ ⁠◡⁠) }}$
 </td>
 </tr>
 </table>
