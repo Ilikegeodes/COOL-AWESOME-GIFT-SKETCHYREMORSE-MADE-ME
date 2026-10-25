@@ -6,6 +6,17 @@
 <img width="345" alt="Untitled96_Restored_20261025124106" src="https://github.com/user-attachments/assets/d352ae0a-d39d-4189-8a6a-73b2f6da86c8" />
 <br>
 <br>
+<table>
+<tr>
+<td>
+$\color{#171F48}{\texttt{The}}$ $\color{#419F52}{\texttt{Pet Stealer}}$ $\color{#3A375C}{\texttt{of}}$
+<a href="https://github.com/title-town">@titletown</a>
+$\color{#3A375C}{\texttt{and the}}$ $\color{#419F52}{\texttt{Damian Wayne}}$ $\color{#3A375C}{\texttt{of}}$ 
+<a href="https://github.com/Ponytowns-Rewards">@Ponytowns-Awards</a>
+</td>
+</tr>
+</table>
+<br>
 <p align="center">
 <img alt="Untitled96_Restored_20261025130752" src="https://github.com/user-attachments/assets/8cf0426a-bd4d-4027-942f-3c75c95434c7" />
 </p>
