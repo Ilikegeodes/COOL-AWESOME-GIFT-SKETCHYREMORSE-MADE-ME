@@ -1,6 +1,6 @@
 <div align="center">
 
-**Will add to main GH readme when im awake enough to not edit the wrong repo again (ᵕ—﹏—)**
+**Will add to main GH when im not half asleep nd awake enough to not edit the wrong repo again (ᵕ—﹏—)**
   
 <div align="center"> pfp : testing testing 
 <img width="1000" height="393" alt="Untitled96_Restored_20261025125140" src="https://github.com/user-attachments/assets/58053b81-be66-48a1-8a65-74d8bf9f2652" />
@@ -22,7 +22,7 @@ $\color{#171F48}{\texttt{The}}$ $\color{#419F52}{\texttt{Pet Stealer}}$ $\color{
 <a href="https://github.com/title-town">@titletown</a>
 $\color{#3A375C}{\texttt{and the}}$ $\color{#419F52}{\texttt{Damian Wayne}}$ $\color{#3A375C}{\texttt{of}}$ 
 <a href="https://github.com/Ponytowns-Rewards">@Ponytowns-Awards</a>
-$\color{#171F48}{\texttt{ (⁠◡⁠ ⁠ω⁠ ⁠◡⁠) }}$
+$\color{#171F48}{\texttt{ :D}}$
 </td>
 </tr>
 </table>
@@ -32,21 +32,27 @@ $\color{#171F48}{\texttt{ (⁠◡⁠ ⁠ω⁠ ⁠◡⁠) }}$
 </p>
 <br>
 <br>
-<img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=Targets&extraCount=-350&labelColor=3A375C&color=419F52" alt="Visitor count"> 
+<img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=Targets&extraCount=-575&labelColor=3A375C&color=419F52" alt="Visitor count"> 
   <img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=PeopleIMugged&extraCount=1137&labelColor=171F48&color=419F52" alt="Visitor count"> 
   <img src="https://img.shields.io/github/followers/Ilikegeodes?style=plastic&label=Moots!&labelColor=3A375C&color=419F52" alt="Profile followers">
 <br>
 <br>
 <img alt="Untitled96_Restored_20261025124347" src="https://github.com/user-attachments/assets/25c56c3f-85e1-441f-93ec-28a05125f489" />
+
+cutest picture aww boop ty again for making this for me
 <br>
 <br>
 <table>
 <tr>
+   "the place where it should be would be in the table, between the <td> </td> in the <tr> </tr> ,, select <banner> , then just paste it in so the <banner> is deleted" - sketch
 <td>
-  $\color{#419F52}{\texttt{name}}$
-  $\color{#419F52}{\texttt{age}}$
-  $\color{#419F52}{\texttt{pronoun/pronoun}}$
-  $\color{#419F52}{\texttt{”catch phrase“}}$
+  $\color{#419F52}{\texttt{mann do i}}$
+  $\color{#419F52}{\texttt{need a ”catch phrase“ now..?}}$
+  
+  $\color{#419F52}{\texttt{hmmmm... maybe}}$
+    $\color{#419F52}{\texttt{it can be:}}$
+  
+  $\color{#419F52}{\texttt{”give up ur pets im mugging you“}}$
 </td>
   <td>
     <img alt="Untitled96_Restored_20261025124613" src="https://github.com/user-attachments/assets/d06b3202-ae67-4d4b-9f2f-028a9e585d4f" /> 
@@ -68,10 +74,10 @@ $\color{#171F48}{\texttt{ (⁠◡⁠ ⁠ω⁠ ⁠◡⁠) }}$
        $\color{#171F48}{\texttt{ !! }}$
        <br>
        <br>
-       <a href="https://ilikegeodes/strawpage/"><img src="https://img.shields.io/badge/%20strawpage!-171F48?style=flat&textColor=white"> </a><br>
-       <a href="https://artfight.net/~BlueberryGuy"><img src="https://img.shields.io/badge/%20artfight!-3A375C?style=flat&textColor=white"> </a><br>
-       <a href="https://ilikegeodes.atabook.org/"><img src="https://img.shields.io/badge/%20atabook!-3A375C?style=flat&textColor=white"> </a><br>
-       <a href="https://forms.gle/9bMnbvmW8XufVYS46"><img src="https://img.shields.io/badge/%20toad army!-171F48?style=flat&textColor=white"> </a>
+       <a href="https://ilikegeodes/strawpage/"><img src="https://img.shields.io/badge/%20strawpage!-171F48?style=plastic&textColor=white"> </a><br>
+       <a href="https://artfight.net/~BlueberryGuy"><img src="https://img.shields.io/badge/%20artfight!-3A375C?style=plastic&textColor=white"> </a><br>
+       <a href="https://ilikegeodes.atabook.org/"><img src="https://img.shields.io/badge/%20atabook!-3A375C?style=plastic&textColor=white"> </a><br>
+       <a href="https://forms.gle/9bMnbvmW8XufVYS46"><img src="https://img.shields.io/badge/%20toad army!-171F48?style=plastic&textColor=white"> </a>
    </td>
   </tr>
 </table>
