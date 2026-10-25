@@ -59,10 +59,10 @@ $\color{#171F48}{\texttt{ (⁠◡⁠ ⁠ω⁠ ⁠◡⁠) }}$
        $\color{#171F48}{\texttt{ !! }}$
        <br>
        <br>
-       <a href="https://ilikegeodes/strawpage/">Strawpage!</a><br>
-       <a href="https://artfight.net/~BlueberryGuy">Artfight!</a><br>
-       <a href="https://ilikegeodes.atabook.org/">Atabook!</a><br>
-       <a href="https://forms.gle/9bMnbvmW8XufVYS46">Toad Army!</a>
+       <a href="https://ilikegeodes/strawpage/"><img src="https://img.shields.io/badge/%20strawpage!-171F48?style=flat&textColor=white"> </a><br>
+       <a href="https://artfight.net/~BlueberryGuy"><img src="https://img.shields.io/badge/%20artfight!-3A375C?style=flat&textColor=white"> </a><br>
+       <a href="https://ilikegeodes.atabook.org/"><img src="https://img.shields.io/badge/%20atabook!-419F52?style=flat&textColor=white"> </a><br>
+       <a href="https://forms.gle/9bMnbvmW8XufVYS46"><img src="https://img.shields.io/badge/%20toad army!-171F48?style=flat&textColor=white"> </a>
    </td>
   </tr>
 </table>
