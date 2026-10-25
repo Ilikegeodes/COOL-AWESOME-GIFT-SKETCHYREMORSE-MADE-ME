@@ -32,9 +32,9 @@ $\color{#171F48}{\texttt{ :D}}$
 </p>
 <br>
 <br>
-<img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=Targets&extraCount=-575&labelColor=3A375C&color=419F52" alt="Visitor count"> 
+<img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=Targets&extraCount=-610&labelColor=3A375C&color=D7BD00" alt="Visitor count"> 
   <img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=PeopleIMugged&extraCount=1137&labelColor=171F48&color=419F52" alt="Visitor count"> 
-  <img src="https://img.shields.io/github/followers/Ilikegeodes?style=plastic&label=Moots!&labelColor=3A375C&color=419F52" alt="Profile followers">
+  <img src="https://img.shields.io/github/followers/Ilikegeodes?style=plastic&label=Moots!&labelColor=3A375C&color=ba84ec" alt="Profile followers">
 <br>
 <br>
 <img alt="Untitled96_Restored_20261025124347" src="https://github.com/user-attachments/assets/25c56c3f-85e1-441f-93ec-28a05125f489" />
@@ -52,7 +52,7 @@ cutest picture aww boop ty again for making this for me
   $\color{#419F52}{\texttt{hmmmm... maybe}}$
     $\color{#419F52}{\texttt{it can be:}}$
   
-  $\color{#419F52}{\texttt{”give up ur pets im mugging you“}}$
+  $\color{#419F52}{\texttt{”give up ur pets, im mugging you!“}}$
 </td>
   <td>
     <img alt="Untitled96_Restored_20261025124613" src="https://github.com/user-attachments/assets/d06b3202-ae67-4d4b-9f2f-028a9e585d4f" /> 
@@ -75,9 +75,9 @@ cutest picture aww boop ty again for making this for me
        <br>
        <br>
        <a href="https://ilikegeodes/strawpage/"><img src="https://img.shields.io/badge/%20strawpage!-171F48?style=plastic&textColor=white"> </a><br>
-       <a href="https://artfight.net/~BlueberryGuy"><img src="https://img.shields.io/badge/%20artfight!-3A375C?style=plastic&textColor=white"> </a><br>
-       <a href="https://ilikegeodes.atabook.org/"><img src="https://img.shields.io/badge/%20atabook!-3A375C?style=plastic&textColor=white"> </a><br>
-       <a href="https://forms.gle/9bMnbvmW8XufVYS46"><img src="https://img.shields.io/badge/%20toad army!-171F48?style=plastic&textColor=white"> </a>
+       <a href="https://artfight.net/~BlueberryGuy"><img src="https://img.shields.io/badge/%20artfight!-CF323B?style=plastic&textColor=white"> </a><br>
+       <a href="https://ilikegeodes.atabook.org/"><img src="https://img.shields.io/badge/%20atabook!-6832cf?style=plastic&textColor=white"> </a><br>
+       <a href="https://forms.gle/9bMnbvmW8XufVYS46"><img src="https://img.shields.io/badge/%20toad army!-419F52?style=plastic&textColor=white"> </a>
    </td>
   </tr>
 </table>
@@ -97,6 +97,11 @@ cutest picture aww boop ty again for making this for me
       <td>
         $\color{#171F48}{\texttt{My}}$ $\color{#419F52}{\texttt{Bat Friends}}$ $\color{#3A375C}{\texttt{and}}$ $\color{#419F52}{\texttt{Family...}}$ <br>
         people>>
+        <br>
+        <p align="center"> I work alone.
+        <p align="center"> ...
+        <p align="center"> This is satire, since this repo was 99% not made by me LOL
+          <p align="center">  <a href="https://github.com/sketchyremorse">TYSM Sketchyremorse</a>
       </td>
     </tr>
   </table>
