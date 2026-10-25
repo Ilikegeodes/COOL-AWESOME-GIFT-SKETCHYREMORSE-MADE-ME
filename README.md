@@ -23,6 +23,11 @@ $\color{#171F48}{\texttt{ (⁠◡⁠ ⁠ω⁠ ⁠◡⁠) }}$
 </p>
 <br>
 <br>
+<img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=Targets&extraCount=-350&labelColor=171F48&color=419F52" alt="Visitor count"> 
+  <img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=PeopleIMugged&extraCount=1137&labelColor=3A375C&color=419F52" alt="Visitor count"> 
+  <img src="https://img.shields.io/github/followers/Ilikegeodes?style=plastic&label=Moots!&labelColor=3A375C&color=419F52" alt="Profile followers">
+<br>
+<br>
 <img alt="Untitled96_Restored_20261025124347" src="https://github.com/user-attachments/assets/25c56c3f-85e1-441f-93ec-28a05125f489" />
 <br>
 <br>
@@ -47,10 +52,17 @@ $\color{#171F48}{\texttt{ (⁠◡⁠ ⁠ω⁠ ⁠◡⁠) }}$
 <br>
 <br>
 <p align="right">
- <table>
+<table>
   <tr>
    <td>
-  <banner>
+  $\color{#171F48}{\texttt{ MY }}$ $\color{#419F52}{\texttt{LINKS}}$
+       $\color{#171F48}{\texttt{ !! }}$
+       <br>
+       <br>
+       <a href="https://ilikegeodes/strawpage/">Strawpage!</a><br>
+       <a href="https://artfight.net/~BlueberryGuy">Artfight!</a><br>
+       <a href="https://ilikegeodes.atabook.org/">Atabook!</a><br>
+       <a href="https://forms.gle/9bMnbvmW8XufVYS46">Toad Army!</a>
    </td>
   </tr>
 </table>
