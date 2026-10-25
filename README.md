@@ -37,9 +37,9 @@ $\color{#171F48}{\texttt{ (⁠◡⁠ ⁠ω⁠ ⁠◡⁠) }}$
   $\color{#419F52}{\texttt{name}}$
   $\color{#419F52}{\texttt{age}}$
   $\color{#419F52}{\texttt{pronoun/pronoun}}$
-  $\colod{#419F52}{\texttt{”catch phrase“}}$
+  $\color{#419F52}{\texttt{”catch phrase“}}$
 </td>
-<td>
+  <td>
     <img alt="Untitled96_Restored_20261025124613" src="https://github.com/user-attachments/assets/d06b3202-ae67-4d4b-9f2f-028a9e585d4f" /> 
 </td>
 </tr>
