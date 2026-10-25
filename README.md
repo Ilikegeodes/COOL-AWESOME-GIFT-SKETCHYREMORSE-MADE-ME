@@ -70,6 +70,24 @@ $\color{#171F48}{\texttt{ (⁠◡⁠ ⁠ω⁠ ⁠◡⁠) }}$
 </p>
 <br>
 <br>
+  <p align="center">
+<img alt="Untitled96_Restored_20261025130752" src="https://github.com/user-attachments/assets/8cf0426a-bd4d-4027-942f-3c75c95434c7" />
+</p>
+<br>
+<br>
+<p align="center">
+<img alt="Untitled96_Restored_20261025125033" src="https://github.com/user-attachments/assets/95cd874e-d2f1-40f5-a4c3-29a34b6f4bad" />
+  <table>
+    <tr>
+      <td>
+        $\color{#171F48}{\texttt{My}}$ $\color{#419F52}{\texttt{Bat Friends}}$ $\color{#3A375C}{\texttt{and}}$ $\color{#419F52}{\texttt{Family...}}$
+        
+      </td>
+    </tr>
+  </table>
+</p>
+<br>
+<br>
 <p align="center">
 <img alt="Untitled96_Restored_20261025130752" src="https://github.com/user-attachments/assets/8cf0426a-bd4d-4027-942f-3c75c95434c7" />
 </p>
