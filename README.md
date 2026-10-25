@@ -80,6 +80,15 @@ $\color{#171F48}{\texttt{ (⁠◡⁠ ⁠ω⁠ ⁠◡⁠) }}$
 </p>
 <br>
 <br>
+ <table>
+   <tr>
+     <td>
+       <banner>
+     </td>
+   </tr>
+  </table>
+<br>
+<br>
 <br>
 <img alt="Untitled96_20261025103954" src="https://github.com/user-attachments/assets/2465d401-040c-4484-a52d-056431e66965" />
 </div>
