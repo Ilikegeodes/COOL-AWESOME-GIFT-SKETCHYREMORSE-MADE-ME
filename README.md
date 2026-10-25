@@ -80,8 +80,8 @@ $\color{#171F48}{\texttt{ (⁠◡⁠ ⁠ω⁠ ⁠◡⁠) }}$
   <table>
     <tr>
       <td>
-        $\color{#171F48}{\texttt{My}}$ $\color{#419F52}{\texttt{Bat Friends}}$ $\color{#3A375C}{\texttt{and}}$ $\color{#419F52}{\texttt{Family...}}$
-        
+        $\color{#171F48}{\texttt{My}}$ $\color{#419F52}{\texttt{Bat Friends}}$ $\color{#3A375C}{\texttt{and}}$ $\color{#419F52}{\texttt{Family...}}$ <br>
+        people>>
       </td>
     </tr>
   </table>
