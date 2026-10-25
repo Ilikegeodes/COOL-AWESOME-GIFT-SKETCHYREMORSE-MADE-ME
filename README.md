@@ -1,4 +1,10 @@
 <div align="center">
+  pfp :
+<img width="1000" height="393" alt="Untitled96_Restored_20261025125140" src="https://github.com/user-attachments/assets/58053b81-be66-48a1-8a65-74d8bf9f2652" />
+
+
+
+  
 <img alt="Untitled96_20261025103832" src="https://github.com/user-attachments/assets/c6b7a661-d87d-419a-abe0-60f5570ce98d" />
 <br>
 <br>
