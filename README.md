@@ -34,10 +34,10 @@ $\color{#171F48}{\texttt{ (⁠◡⁠ ⁠ω⁠ ⁠◡⁠) }}$
 <table>
 <tr>
 <td>
-    desc
-    sec
-    sedc
-    dwsc
+  name
+  age
+  pronoun/pronoun
+  ”catch phrase“
 </td>
 <td>
     <img alt="Untitled96_Restored_20261025124613" src="https://github.com/user-attachments/assets/d06b3202-ae67-4d4b-9f2f-028a9e585d4f" /> 
