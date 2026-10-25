@@ -23,8 +23,8 @@ $\color{#171F48}{\texttt{ (⁠◡⁠ ⁠ω⁠ ⁠◡⁠) }}$
 </p>
 <br>
 <br>
-<img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=Targets&extraCount=-350&labelColor=171F48&color=419F52" alt="Visitor count"> 
-  <img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=PeopleIMugged&extraCount=1137&labelColor=3A375C&color=419F52" alt="Visitor count"> 
+<img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=Targets&extraCount=-350&labelColor=3A375C&color=419F52" alt="Visitor count"> 
+  <img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=PeopleIMugged&extraCount=1137&labelColor=171F48&color=419F52" alt="Visitor count"> 
   <img src="https://img.shields.io/github/followers/Ilikegeodes?style=plastic&label=Moots!&labelColor=3A375C&color=419F52" alt="Profile followers">
 <br>
 <br>
