@@ -1,6 +1,8 @@
 <div align="center">
 
-**Will add stuff to main GH when im not half asleep nd awake enough to not edit the wrong repo again (ᵕ—﹏—)**
+**Will add the stuff to main GH when im not half asleep nd awake enough to not edit the wrong repo again (ᵕ—﹏—)**
+
+**Update: Sorry that I haven't added this yet, I put it unedited on my alt account, Garnet, so it can still be seen while I figure out how to add it to the stuff I already have in my repo, I don't mean to act ungrateful for your gift, very sorry.**
   
 <div align="center"> pfp : testing testing 
 <img width="1000" height="393" alt="Untitled96_Restored_20261025125140" src="https://github.com/user-attachments/assets/58053b81-be66-48a1-8a65-74d8bf9f2652" />
